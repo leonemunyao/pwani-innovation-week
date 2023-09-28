@@ -1727,6 +1727,7 @@ export const sponsors = [
     { id: 28, imageURL: "../../assets/images/sponsors/jumuiya.png", sponsor_name: "Jumuiya Ya Kaunti Za Pwani"},
     { id: 29, imageURL: "../../assets/images/sponsors/KEPSALOGO.png", sponsor_name: "Kenya Private Sector Alliance"},
     { id: 30, imageURL: "../../assets/images/sponsors/museamslogo.png", sponsor_name: "National Museams of Kenya"},
-    { id: 31, imageURL: "../../assets/images/sponsers/seacom.png", sponsor_name: "SEACOM"}
+    { id: 31, imageURL: "../../assets/images/sponsers/seacom.png", sponsor_name: "SEACOM"},
+    { id: 32, imageURL: "../../assets/images/sponsers/FoundersFactory.png", sponsor_name: "Founders Factory"}
 ];
 

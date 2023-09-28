@@ -40,7 +40,7 @@ import jumuiya from "../../assets/images/sponsors/jumuiya.png"
 import KEPSA from "../../assets/images/sponsors/KEPSALOGO.png"
 import museam from "../../assets/images/sponsors/museumslogo.png"
 import seacom from "../../assets/images/sponsors/seacom.png"
-
+import founders from "../../assets/images/sponsors/FoundersFactory.png"
 import techkidz from "../../assets/images/sponsors/TechKidzAfrica_Logo.png"
 import TwitterTimeline from '../x-plugin/tweet_embed'
 // import "../../assets/scss/theme.scss"
@@ -258,6 +258,9 @@ const Infosec = () => {
             </div>
             <div className='logo-item col-6 col-md-4 col-lg-2'>
               <img src={seacom} alt='' />
+            </div>
+            <div className='logo-item col-6 col-md-4 col-lg-2'>
+              <img src={founders} alt='' height="140"/>
             </div>
           </div>
           {/* <!--//row--> */}
