@@ -115,16 +115,12 @@ export const schedule = [
                         id: 5,
                         name: "Farhia Jama - Founder, Holby Training Solutions"
                     },
-                    {
-                        id: 6,
-                        name: "Ann Rose Maua - Executive Director, Uzalendo Afrika Initiative"
-                    }
                 ]
             },
             {
                 id: 7,
                 time: "3:30 PM - 5:00 PM",
-                event_title: "Mastering the Art of Pitching: Strategies for Success in the Modern Business Landscape",
+                event_title: "Mastering the Art of Pitching: Strategies for Success in the Modern Business Landscape; Launch Event: Young Business Executive Fellowship Program",
                 event_type: "Master Class",
                 venue: "Amphitheater",
                 partners: [
@@ -138,6 +134,7 @@ export const schedule = [
                 id: 8,
                 time: "5:00 PM - 6:00 PM",
                 event_title: "Art Performance - Band",
+                moderator: "Stephanie Maseki",
                 event_type: "Entertainment",
                 venue: "Amphitheatre",
             },
@@ -145,6 +142,7 @@ export const schedule = [
                 id: 8,
                 event_title: "Sinema Mtaani Screening",
                 event_type: "Entertainment",
+                moderator: "Stephanie Maseki",
                 time: "6:00 PM - 8:00PM",
                 venue: "Amphitheatre",
                 partners: [
@@ -180,7 +178,7 @@ export const schedule = [
                 id: 2,
                 time: "9.00 AM - 11:00 AM",
                 event_title: "Opening Ceremony and Keynote Address",
-                event_type: "Workshop",
+                event_type: "Opening Ceremony; Keynote Address",
                 venue: "Amphitheatre",
                 moderator: "Michael Onyango - Founder, 4BM",
                 partners: [
@@ -261,7 +259,7 @@ export const schedule = [
                 partners: [
                     {
                         id: 1,
-                        name: "Lucas Omolo, Konza Technopolis"
+                        name: "Lucas Omolo - Konza Technopolis"
                     },
                     {
                         id: 2,
@@ -308,7 +306,11 @@ export const schedule = [
                     },
                     {
                         id: 2,
-                        name: "Mr. Stanley Kamanguya - CEO, Information and Communication Technology (ICT) Authority"
+                        name: "John Paul Okwiri - CEO, Konza Technopolis"
+                    },
+                    {
+                        id: 3,
+                        name: "Dr. Shikoh Otieno - CEO, Qhala"
                     }
                 ]
             },
@@ -322,26 +324,18 @@ export const schedule = [
                 partners: [
                     {
                         id: 1,
-                        name: "Eng. John Tanui, MBS, Permanent Secretary, Ministry of Information, Cummunication & Digital Economy (Opening Remarks)"
-                    },
-                    {
-                        id: 2,
-                        name: "Brian Keya - Yunitok Manager, UNICEF"
-                    },
-                    {
-                        id: 3,
                         name: "Phillippa Mary - Head of Public-Private Partnerships and Employer Engagement and Consultant on Private Sector Engagement, GDI, GOYN"
                     },
                     {
-                        id: 4,
+                        id: 2,
                         name: "Sven De Cauter - Majorel Kenya"
                     },
                     {
-                        id: 5,
+                        id: 3,
                         name: "Ville Wacklin - Head of Partnerships/Chief of Staff, Fuzu"
                     },
                     {
-                        id: 6,
+                        id: 4,
                         name: "Alice Kimani - Kenya Private Sector Alliance"
                     }
                 ]
@@ -386,7 +380,7 @@ export const schedule = [
                 event_title: "Break Out Session: Coastal Resilience: Strategies for Climate Action in Coastal Strip",
                 event_type: "Break Out Session",
                 venue: "Ali Mazrui Hall",
-                moderator: "Samuel Mue - Kenya Ni Mimi ED",
+                moderator: "Samuel Mue - Executive Director, Kenya Ni Mimi",
                 partners: [
                     {
                         id: 1,
@@ -398,18 +392,14 @@ export const schedule = [
                     },
                     {
                         id: 3,
-                        name: "Ebenezah Amadi - Program Manager, Sustainable Inclusive Business, KEPSA"
-                    },
-                    {
-                        id: 4,
                         name: "Jackson Kiplagat - Marine Officer, National Environment Management Authority"
                     },
                     {
-                        id: 5,
+                        id: 4,
                         name: "Dr. Asma Awadh - Coastal Kenya Programme Manager, WWF"
                     },
                     {
-                        id: 6,
+                        id: 5,
                         name: "Priyanka Patel - Innovation Manager, Kenya Red Cross Society"
                     }
                 ]
@@ -417,8 +407,9 @@ export const schedule = [
             {
                 id: 10,
                 time: "6:00 PM - 9:00 PM",
-                event_title: "Gala Dinner and Keynote Address",
+                event_title: "Gala Dinner",
                 event_type: "Art Performance - Band",
+                moderator: "TBC",
                 venue: "Swahilipot Hub",
                 partners: [
                     {
@@ -476,13 +467,17 @@ export const schedule = [
                     {
                         id: 6,
                         name: "Albert Mwamburi - Historian and Cultural Documentor (Youth)"
+                    },
+                    {
+                        id: 7,
+                        name: "CS Eliud Owalo - Cabinet Secretary, Ministry of Information, Communication and Digital Economy"
                     }
                 ]
             },
             {
                 id: 2,
                 time: "10:00 AM - 11:45 AM",
-                event_title: "Preserving Coastal Heritage: Challenges, Opportunities, and Sustainability",
+                event_title: "Preserving & Creating Socio-economical Value of Coastal Heritage: Challenges, Opportunities, and Sustainability",
                 event_type: "Plenary Session",
                 venue: "Amphitheatre",
                 moderator: "Rukiya Jaanwala - Partnership Lead, SPH",
@@ -540,7 +535,7 @@ export const schedule = [
                     },
                     {
                         id: 2,
-                        name: "Kenya Private Sector Alliance"
+                        name: "Ajira Digital"
                     },
                     {
                         id: 3,
@@ -583,11 +578,11 @@ export const schedule = [
                     },
                     {
                         id: 5,
-                        name: "Ajra Mohammed - Lead, Partnerships and Government Relations (Nguvu Collectives)"
+                        name: "Ajra Mohammed - Lead, Partnerships and Government Relations Lead, Nguvu Collectives"
                     },
                     {
                         id: 6,
-                        name: "Husnia Muhammad - AI and Digital Transformation, African Union"
+                        name: "Husnia Muhammad - AI and Digital Transformation Expert, African Union"
                     },
                     {
                         id: 7,
@@ -599,7 +594,7 @@ export const schedule = [
                     },
                     {
                         id: 9,
-                        name: "Ihan Mohammed - Infi-tech"
+                        name: "Ilhan Mohammed - Infi-tech"
                     },
                     {
                         id: 10,
@@ -722,14 +717,10 @@ export const schedule = [
                     },
                     {
                         id: 6,
-                        name: "June Chepkemei - Managing Director, KENINVEST"
-                    },
-                    {
-                        id: 7,
                         name: "Olivier Vanden Eynde - Close the Gap"
                     },
                     {
-                        id: 8,
+                        id: 7,
                         name: "Lisa Kimondo - Founders Factory"
                     }
                 ]
@@ -739,7 +730,7 @@ export const schedule = [
                 id: 3,
                 time: "9:20AM - 10:30AM",
                 event_type: "Plenary Session",
-                event_title: "Plenary Session: Harvesting Green Gold: Advancing Coastal Green Economy",
+                event_title: "Harvesting Green Gold: Advancing Coastal Green Economy Initiatives",
                 moderator: "Dr. Sylvia Mutua",
                 venue: "Amphitheatre",
                 partners: [
@@ -786,7 +777,7 @@ export const schedule = [
                 id: 5,
                 time: "10:35AM - 12:00PM",
                 event_type: "Plenary Session",
-                event_title: "Plenary Session: Exploring the vibrant potential of the Orange Economy: Fostering Innovation, Sustainability and Inclusivity",
+                event_title: "Exploring the vibrant potential of the Orange Economy: Fostering Innovation, Sustainability and Inclusivity",
                 moderator: "Yvonne Musyoki - Coast Regional Director, Kenya Film Classification Board",
                 venue: "Amphitheatre",
                 partners: [
@@ -856,9 +847,20 @@ export const schedule = [
                 event_type: "Breakout Session",
                 event_title: "Break out Session: State of Innovation and Entrepreneurship in the Pwani Region",
                 moderator: "TBC",
-                venue: "",
+                venue: "Ali Mazrui Hall",
                 partners: [
-                   
+                    {
+                        id: 1,
+                        name: "Swahilipot Hub Foundation"
+                    },
+                    {
+                        id: 2,
+                        name: "Association of Startups and SME Enablers Kenya"
+                    },
+                    {
+                        id: 3,
+                        name: "TechBridge Invest"
+                    }
                 ]
             },
             {
@@ -884,7 +886,7 @@ export const schedule = [
                     },
                     {
                         id: 3,
-                        name: "Athman Mohammed"
+                        name: "Adelaide Njoki - Founders Factory Africa"
                     },
                     {
                         id: 4,
@@ -892,7 +894,7 @@ export const schedule = [
                     },
                     {
                         id: 5,
-                        name: "Caroline Gichuki - Tesmoh Investment Limited"
+                        name: "Caroline Gichuki - Tesmoh International Limited"
                     },
                     {
                         id: 6,
@@ -900,12 +902,8 @@ export const schedule = [
                     },
                     {
                         id: 7,
-                        name: "Lisa Kimondo, Founders Factory Africa"
+                        name: "Daniel Maison - Founders Factory Africa"
                     },
-                    {
-                        id: 8,
-                        name: "NCBA Group/Junior Achievers"
-                    }
                 ]
             },
             {
@@ -939,36 +937,6 @@ export const schedule = [
         program: [
             {
                 id: 1,
-                time: "9:00 AM - 12:30 AM",
-                event_title: "Intergenerational Forum: Driving Digital Transformation through Progressive Legislation",
-                event_type: "Plenary Session",
-                venue: "Amphitheatre",
-                moderator: "Maina Chege, Trading Bell Show Host, KTN News",
-                partners: [
-                    {
-                        id: 1,
-                        name: "Departmental Committee on Information, Communication and Technology; Parliament of Kenya"
-                    },
-                    {
-                        id: 2,
-                        name: "County Assembly Representatives (Coastal Region)"
-                    },
-                    {
-                        id: 3,
-                        name: "Global Opportunity Youth Network"
-                    },
-                    {
-                        id: 4,
-                        name: "Mombasa County Government"
-                    },
-                    {
-                        id: 5,
-                        name: "Information and Communication Technology Authority"
-                    }
-                ]
-            },
-            {
-                id: 2,
                 time: "9:00 AM - 12:30 PM",
                 event_title: "Intergenerational Forum: Driving Digital Transformation through Progressive Legislation",
                 event_type: "Plenary Session",
@@ -1028,7 +996,7 @@ export const schedule = [
                 ]
             },
             {
-                id: 2,
+                id: 3,
                 time: "2:00 PM - 4:00 PM",
                 event_title: "Junior Achievers Program Pitching",
                 venue: "Mekatilili Hall",
