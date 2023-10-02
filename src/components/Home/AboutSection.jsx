@@ -7,7 +7,7 @@ const AboutSection = () => {
   const [seconds, setSeconds] = useState(0)
 
   useEffect(() => {
-    const targetDate = new Date('2023-10-2').getTime() // Replace with your target date
+    const targetDate = new Date('2023-10-6').getTime() // Replace with your target date
     const updateCountdown = () => {
       const currentDate = new Date().getTime()
       const secondsLeft = (targetDate - currentDate) / 1000
@@ -65,7 +65,7 @@ const AboutSection = () => {
       {/* <!--//benefits-list--> */}
       <div className='event-countdown text-center mb-3'>
         <h4 className='countdown-intro mb-2 text-center mb-3'>
-          Pwani Innovation Week 2023 Starts In:
+          Pwani Innovation Week 2023 Ends In:
         </h4>
         <div
           id='countdown-box'
@@ -102,11 +102,11 @@ const AboutSection = () => {
       <div className='about-cta text-center mb-5'>
         <a
           className='btn btn-secondary btn-lg mb-5'
-          href='https://afritickets.events/2270-pwani-innovation-week'
+          href='https://drive.google.com/file/d/1O6LfmcAVSTgFIptua6kegJFwy3foMl3r/view'
           target='_blank'
           rel='noreferrer'
         >
-          Get Your Ticket Today
+          Download Schedule
         </a>
       </div>
     </div>
