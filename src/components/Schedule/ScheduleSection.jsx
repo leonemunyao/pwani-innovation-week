@@ -57,7 +57,7 @@ const ScheduleItem = ({ time, title, venue, type, partners, moderator }) => {
 };
 
 const ScheduleSection = () => {
-  const [activeTab, setActiveTab] = useState("tab-1"); // Set the default active tab
+  const [activeTab, setActiveTab] = useState("tab-2"); // Set the default active tab
 
   const handleTabClick = (tabId) => {
     setActiveTab(tabId);

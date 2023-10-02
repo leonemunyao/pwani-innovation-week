@@ -50,9 +50,9 @@ function Navbar() {
             <div className="navbar-btn order-lg-2">
               <a
                 className="btn btn-secondary"
-                href="https://afritickets.events/2270-pwani-innovation-week"
+                href="https://drive.google.com/file/d/1O6LfmcAVSTgFIptua6kegJFwy3foMl3r/view?usp=sharing"
               >
-                Tickets
+                Download Schedule
               </a>
             </div>
             <button

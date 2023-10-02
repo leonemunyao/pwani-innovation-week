@@ -42,6 +42,7 @@ import museam from "../../assets/images/sponsors/museumslogo.png"
 import seacom from "../../assets/images/sponsors/seacom.png"
 import founders from "../../assets/images/sponsors/FoundersFactory.png"
 import techkidz from "../../assets/images/sponsors/TechKidzAfrica_Logo.png"
+import safaricom from "../../assets/images/sponsors/saf.png"
 import TwitterTimeline from '../x-plugin/tweet_embed'
 // import "../../assets/scss/theme.scss"
 // import '../../assets/css/theme.css'
@@ -156,6 +157,9 @@ const Infosec = () => {
         } */}
             <div className='logo-item col-6 col-md-4 col-lg-2'>
               <img src={swahilipot} alt='' />
+            </div>
+            <div className='logo-item col-6 col-md-4 col-lg-2'>
+              <img src={safaricom} alt='' />
             </div>
             <div className='logo-item col-6 col-md-4 col-lg-2'>
               <img src={BM} alt='' />

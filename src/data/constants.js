@@ -1735,6 +1735,7 @@ export const sponsors = [
     { id: 3, imageURL: "../../assets/images/venue/3.jpg", sponsor_name: "" },
     { id: 4, imageURL: "../../assets/images/venue/4.jpg", sponsor_name: "" },
     { id: 5, imageURL: "../../assets/images/sponsors/4BM-Logo-1.png", sponsor_name: "4BM-Logo-1" },
+    { id: 5, imageURL: "../../assets/images/sponsors/saf.png", sponsor_name: "Safaricom" },
     { id: 6, imageURL: "../../assets/images/sponsors/Charlene Ruto.png", sponsor_name: "Charlene Ruto" },
     { id: 7, imageURL: "../../assets/images/sponsors/Communications-Authority-Of-Kenya-Logo.png", sponsor_name: "Communications-Authority-Of-Kenya-Logo" },
     { id: 8, imageURL: "../../assets/images/sponsors/French ambassador.png", sponsor_name: "French ambassador" },
