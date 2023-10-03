@@ -102,7 +102,7 @@ const AboutSection = () => {
       <div className='about-cta text-center mb-5'>
         <a
           className='btn btn-secondary btn-lg mb-5'
-          href='https://drive.google.com/file/d/1O6LfmcAVSTgFIptua6kegJFwy3foMl3r/view'
+          href='https://drive.google.com/file/d/1O6LfmcAVSTgFIptua6kegJFwy3foMl3r/view?usp=sharing'
           target='_blank'
           rel='noreferrer'
         >
