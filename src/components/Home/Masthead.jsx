@@ -11,9 +11,9 @@ const Masthead = () => {
       <div className='container h-100'>
         <div className='row h-100 align-items-center'>
           <div className='col-12 text-center'>
-            <h1 className='fw-dark'>Pwani Innovation Week 2023</h1>
+            <h1 className='fw-dark'>Pwani Gat Talent 2023</h1>
             <p class='lead'>
-              <CalendarMonthOutlinedIcon className='mx-2' />2 - 6 Oct
+              <CalendarMonthOutlinedIcon className='mx-2' />6 Oct
               <LocationOnIcon className='mx-2' />
               Mombasa, Kenya
             </p>

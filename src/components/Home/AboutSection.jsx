@@ -7,7 +7,7 @@ const AboutSection = () => {
   const [seconds, setSeconds] = useState(0)
 
   useEffect(() => {
-    const targetDate = new Date('2023-10-2').getTime() // Replace with your target date
+    const targetDate = new Date('2023-10-6').getTime() // Replace with your target date
     const updateCountdown = () => {
       const currentDate = new Date().getTime()
       const secondsLeft = (targetDate - currentDate) / 1000
